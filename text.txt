@@ -1,0 +1,3 @@
+#
+# Added this file to match some of the crapola in Mastering Git
+#  by Matthew McCullough (Safari video course).
